@@ -1,0 +1,72 @@
+# GitHub Pages Configuration
+# Cheapest Waiting Room & Dormitory - Waidhan, Singrauli
+
+# Site settings
+title: "Cheapest Waiting Room & Dormitory – Waidhan, Singrauli"
+description: "Budget-friendly dormitory, waiting room, and rental rooms in Waidhan (NTPC), Singrauli – open 24 hours. From ₹100 per bed / room."
+url: "" # Will be automatically set by GitHub Pages
+baseurl: "" # Leave empty for user/organization pages
+
+# SEO settings
+lang: en
+author: "Waiting Room & Dormitory Waidhan"
+keywords: "dormitory, waiting room, hotel, budget accommodation, Waidhan, Singrauli, NTPC, Madhya Pradesh, cheap rooms, student accommodation"
+
+# Social media
+social:
+  name: "Cheapest Waiting Room & Dormitory"
+  links:
+    - "tel:+919770236735"
+    - "https://wa.me/919770236735"
+
+# Contact information
+phone: "+91 97702 36735"
+whatsapp: "919770236735"
+address: "Behind Ram Leela Maidan, Baliyari Road, opposite MPC Hospital, Waidhan – NTPC, Singrauli (M.P.) 486886"
+
+# Business information
+business:
+  type: "LodgingBusiness"
+  priceRange: "₹100–₹2,000"
+  openingHours: "Mo-Su 00:00-23:59"
+  
+# GitHub Pages specific settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - proompt.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Include files
+include:
+  - _pages
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Sass settings
+sass:
+  style: compressed
+
+# Timezone
+timezone: Asia/Kolkata
+
+# Encoding
+encoding: utf-8
+
+# Permalink structure
+permalink: pretty
+
+# Default layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

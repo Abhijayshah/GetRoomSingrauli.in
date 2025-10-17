@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cheapest Waiting Room & Dormitory – Waidhan, Singrauli (M.P.)</title>
+  <meta name="description" content="Budget-friendly dormitory, waiting room, and rental rooms in Waidhan (NTPC), Singrauli – open 24 hours. From ₹100 per bed / room. Call 9770236735 / 7987782056 / 7879028316." />
+  <meta name="theme-color" content="#0ea5e9" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Noto+Sans+Devanagari:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0b1220; --card:#0f172a; --muted:#9aa4b2; --text:#e5e7eb; --brand:#22d3ee; --accent:#38bdf8; --ok:#22c55e; --warn:#f59e0b; --ring:#94a3b8;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:linear-gradient(180deg,#0b1220, #0a1328 35%, #091127);color:var(--text);font-family:Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans Devanagari", sans-serif}
+    a{color:inherit;text-decoration:none}
+    .container{max-width:1100px;margin:auto;padding:24px}
+    .nav{display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .brand{display:flex;align-items:center;gap:12px}
+    .logo{width:44px;height:44px;border-radius:12px;background:radial-gradient(120% 120% at 30% 20%, var(--accent), #1e293b 55%, #0b1220);box-shadow:0 0 0 3px rgba(56,189,248,.35), 0 8px 30px rgba(56,189,248,.25)}
+    .title{font-weight:800;letter-spacing:.2px}
+    .pill{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border:1px solid rgba(148,163,184,.35);border-radius:999px;background:#0b1220a8;backdrop-filter:blur(6px)}
+    .btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 18px;border-radius:12px;border:1px solid rgba(148,163,184,.35);background:linear-gradient(180deg,#0f172a, #0b1323);box-shadow:inset 0 0 0 1px rgba(148,163,184,.15)}
+    .btn.primary{background:linear-gradient(180deg, #0891b2, #0284c7);border-color:transparent}
+    .btn.whatsapp{background:linear-gradient(180deg,#16a34a,#15803d)}
+    .grid{display:grid;gap:18px}
+    .hero{padding:32px 0 20px}
+    .hero h1{font-size:clamp(28px,4.2vw,50px);line-height:1.08;margin:14px 0 6px}
+    .hero p.lead{font-size:clamp(15px,2.2vw,19px);color:var(--muted)}
+    .cards{grid-template-columns:repeat(auto-fit, minmax(240px,1fr))}
+    .card{background:linear-gradient(180deg,#0f162a,#0d1426);border:1px solid rgba(148,163,184,.2);border-radius:18px;padding:18px}
+    .badge{display:inline-block;font-size:12px;padding:4px 10px;border-radius:999px;background:#0b2b3a;color:#7dd3fc;border:1px solid rgba(56,189,248,.35)}
+    .price{font-size:32px;font-weight:800;letter-spacing:.3px}
+    .muted{color:var(--muted)}
+    .list{margin:10px 0 0;padding:0;list-style:none}
+    .list li{display:flex;gap:10px;align-items:flex-start;margin:8px 0}
+    .check{width:18px;height:18px;border-radius:6px;background:linear-gradient(180deg,#059669,#15803d);display:inline-block;margin-top:2px}
+    .section{padding:24px 0}
+    .h2{font-size:clamp(22px,3.2vw,34px);margin:0 0 8px}
+    .map{border:0;width:100%;height:340px;border-radius:18px}
+    .ctaBar{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+    @media (min-width:860px){.ctaBar{grid-template-columns:repeat(4,minmax(0,1fr))}}
+    .footer{margin-top:24px;padding:20px;border-top:1px solid rgba(148,163,184,.2);color:#a8b3bf}
+    .faq details{background:#0f1426;border:1px solid rgba(148,163,184,.25);border-radius:14px;padding:14px}
+    .faq summary{cursor:pointer;font-weight:600}
+    .mono{font-variant-numeric:tabular-nums}
+    .banner{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    .hi{font-family:"Noto Sans Devanagari", sans-serif}
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "Cheapest Waiting Room & Dormitory – Waidhan",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Behind Ram Leela Maidan, Baliyari Road, opposite MPC Hospital",
+      "addressLocality": "Waidhan, Singrauli",
+      "addressRegion": "Madhya Pradesh",
+      "postalCode": "486886",
+      "addressCountry": "IN"
+    },
+    "telephone": "+91-9770236735",
+    "alternateName": "Waiting Room Dormitory Waidhan",
+    "openingHours": "Mo-Su 00:00-23:59",
+    "priceRange": "₹100–₹2,000",
+    "amenityFeature": [
+      {"@type":"LocationFeatureSpecification","name":"Air Conditioning","value":true},
+      {"@type":"LocationFeatureSpecification","name":"Attached Bath","value":true},
+      {"@type":"LocationFeatureSpecification","name":"Kitchen (selected rooms)","value":true}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="container nav">
+    <div class="brand">
+      <div class="logo" aria-hidden="true"></div>
+      <div>
+        <div class="title">Cheapest Waiting Room • Dormitory</div>
+        <div class="muted" style="font-size:12px">Open 24×7 · Waidhan – NTPC, Singrauli (M.P.)</div>
+      </div>
+    </div>
+    <a class="pill" href="#contact">📞 Book Now</a>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="banner">
+        <span class="badge">Available Now · 24 Hours</span>
+        <span class="badge">Budget Friendly</span>
+        <span class="badge">Family & Students</span>
+      </div>
+      <h1>Comfortable • Clean • <span style="background:linear-gradient(90deg,#67e8f9,#22d3ee);-webkit-background-clip:text;color:transparent">Ultra‑Affordable</span></h1>
+      <p class="lead">BEDS from <strong>₹100</strong> and ROOMS from <strong>₹2,000 / month</strong>. Right <strong>opposite MPC Hospital</strong>, behind <strong>Ram Leela Maidan</strong>, Baliyari Road, <strong>Waidhan, Singrauli</strong> (486886).</p>
+      <p class="lead hi">हिंदी: <strong>सबसे सस्ता प्रतीक्षालय (वेटिंग रूम) व डॉर्मिटरी</strong> – 24 घंटे खुला। हॉस्पिटल के सामने, रामलीला मैदान के पीछे, बलियारी रोड, वैढ़न, सिंगरौली।</p>
+      <div class="ctaBar" style="margin-top:14px">
+        <a class="btn primary" href="tel:+919770236735">📞 Call: 97702&nbsp;36735</a>
+        <a class="btn" href="tel:+917987782056">📞 Call: 79877&nbsp;82056</a>
+        <a class="btn" href="tel:+917879028316">📞 Call: 78790&nbsp;28316</a>
+        <a class="btn whatsapp" target="_blank" rel="noopener" href="https://wa.me/919770236735?text=Hello%2C%20I%20want%20to%20book%20a%20bed%2Froom.">💬 WhatsApp</a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="h2">Daily • 24‑Hour Pricing (Dormitory & Waiting Room)</h2>
+      <div class="grid cards">
+        <article class="card">
+          <div class="badge">Best Value</div>
+          <h3>Non‑AC Sleeper Bed</h3>
+          <div class="price">₹100<span class="muted"> / 24 hrs</span></div>
+          <ul class="list">
+            <li><span class="check"></span>Clean beds + lockers (subject to availability)</li>
+            <li><span class="check"></span>Common washrooms</li>
+            <li><span class="check"></span>Ideal for short stays & attendants</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="badge">A/C Waiting Room</div>
+          <h3>AC Waiting Room</h3>
+          <div class="price">₹100<span class="muted"> / 24 hrs</span></div>
+          <ul class="list">
+            <li><span class="check"></span>Air‑conditioned seating / rest area</li>
+            <li><span class="check"></span>24×7 access</li>
+            <li><span class="check"></span>Near hospital & transport</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="badge">Most Popular</div>
+          <h3>AC Sleeper Bed</h3>
+          <div class="price">₹200<span class="muted"> / 24 hrs</span></div>
+          <ul class="list">
+            <li><span class="check"></span>Comfortable AC sleeping area</li>
+            <li><span class="check"></span>Power backup</li>
+            <li><span class="check"></span>Safe & budget friendly</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="h2">Monthly Rooms (Students • Bachelors • Families)</h2>
+      <p class="muted">Front‑facing hospital block • 6 rooms suitable for <strong>shops</strong> + <strong>12 × 1BHK / 2BHK</strong> units available. Most rooms include <strong>attached Toilet–Bathroom</strong>; select units include <strong>Kitchen</strong>. Starting <strong>₹2,000 / month</strong>.</p>
+      <div class="grid cards">
+        <article class="card">
+          <div class="badge">For Students</div>
+          <h3>Single / Shared Rooms</h3>
+          <ul class="list">
+            <li><span class="check"></span>Girls & Boys friendly</li>
+            <li><span class="check"></span>Near DAV & Excellence School, Bus Stand, Ambedkar Chowk</li>
+            <li><span class="check"></span>Dr. Ganga Clinic within 1 km</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="badge">For Families</div>
+          <h3>1BHK / 2BHK</h3>
+          <ul class="list">
+            <li><span class="check"></span>Attached bath • Kitchen (select)</li>
+            <li><span class="check"></span>Front‑facing hospital view</li>
+            <li><span class="check"></span>Affordable long‑term stay</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="badge">For Business</div>
+          <h3>Shop‑Suitable Rooms</h3>
+          <ul class="list">
+            <li><span class="check"></span>Ground‑floor access</li>
+            <li><span class="check"></span>High footfall (hospital road)</li>
+            <li><span class="check"></span>Flexible terms</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="h2">Exact Location</h2>
+      <p class="muted">📍 Behind <strong>Ram Leela Maidan</strong>, Baliyari Road, opposite <strong>MPC Hospital</strong>, Waidhan – NTPC, Singrauli (M.P.) – 486886</p>
+      <div class="grid" style="grid-template-columns:1.2fr .8fr">
+        <iframe class="map" loading="lazy" allowfullscreen src="https://www.google.com/maps?q=Behind%20Ram%20Leela%20Maidan%2C%20Baliyari%20Road%2C%20Waidhan%2C%20Singrauli%20486886%20opposite%20MPC%20Hospital&output=embed"></iframe>
+        <div class="card">
+          <h3>Directions & Booking</h3>
+          <p>
+            <a class="btn" style="width:100%;margin-bottom:10px" target="_blank" rel="noopener" href="https://www.google.com/maps?q=Behind%20Ram%20Leela%20Maidan%20Baliyari%20Road%20Waidhan%20Singrauli%20486886">🧭 Open in Google Maps</a>
+            <a class="btn primary" style="width:100%;margin-bottom:10px" href="tel:+919770236735">📞 Call +91 97702 36735</a>
+            <a class="btn" style="width:100%;margin-bottom:10px" href="tel:+917987782056">📞 Call +91 79877 82056</a>
+            <a class="btn whatsapp" style="width:100%" target="_blank" rel="noopener" href="https://wa.me/919770236735?text=Hello%2C%20I%20want%20to%20book%20a%20bed%2Froom.">💬 WhatsApp Now</a>
+          </p>
+          <p class="muted" style="font-size:12px">Note: Availability & exact room features may vary. Please call for current status.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section faq">
+      <h2 class="h2">FAQ</h2>
+      <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr))">
+        <details>
+          <summary>Is the dormitory open 24 hours?</summary>
+          <div class="muted">Yes. Beds and the waiting room are available round‑the‑clock (subject to availability).</div>
+        </details>
+        <details>
+          <summary>Do you allow students / families?</summary>
+          <div class="muted">Yes. We have options for students, bachelors, and small families (1BHK/2BHK).</div>
+        </details>
+        <details>
+          <summary>What amenities are included?</summary>
+          <div class="muted">Clean beds, safe premises, attached bath in most rooms; kitchen in select monthly units; AC options available.</div>
+        </details>
+        <details>
+          <summary>How do I book?</summary>
+          <div class="muted">Tap any call button above or chat via WhatsApp. Advance booking recommended for peak days.</div>
+        </details>
+      </div>
+    </section>
+
+    <section class="section" id="contact">
+      <h2 class="h2">Contact • संपर्क करें</h2>
+      <div class="grid cards">
+        <div class="card">
+          <h3>Phone</h3>
+          <p><a href="tel:+919770236735">+91 97702&nbsp;36735</a><br><a href="tel:+917987782056">+91 79877&nbsp;82056</a><br><a href="tel:+917879028316">+91 78790&nbsp;28316</a></p>
+        </div>
+        <div class="card">
+          <h3>Address (English)</h3>
+          <p>Behind Ram Leela Maidan, Baliyari Road, <br>Opp. MPC Hospital, Waidhan – NTPC, Singrauli (M.P.) 486886</p>
+        </div>
+        <div class="card hi">
+          <h3>पता (हिंदी)</h3>
+          <p>रामलीला मैदान के पीछे, बलियारी रोड, वैढ़न, सिंगरौली (म. प्र.)<br>एमपीसी अस्पताल के सामने – पिन: 486886</p>
+        </div>
+      </div>
+      <div class="ctaBar" style="margin-top:14px">
+        <a class="btn primary" href="tel:+919770236735">📞 Call Now</a>
+        <a class="btn whatsapp" target="_blank" rel="noopener" href="https://wa.me/919770236735?text=Hello%2C%20I%20want%20to%20book%20a%20bed%2Froom.">💬 WhatsApp</a>
+        <a class="btn" target="_blank" href="mailto:bookings@example.com">✉️ Email</a>
+        <a class="btn" target="_blank" href="#">🖼️ Gallery (add photos)</a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="h2">Notices</h2>
+      <ul class="list">
+        <li><span class="check"></span>Tariffs: <span class="mono">₹100</span> Non‑AC Bed • <span class="mono">₹100</span> AC Waiting Room • <span class="mono">₹200</span> AC Bed (per 24 hours)</li>
+        <li><span class="check"></span>Monthly rooms from <span class="mono">₹2,000</span> (students / bachelors / families)</li>
+        <li><span class="check"></span>Availability may change daily – please call to confirm</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <div>© <span id="y"></span> Waiting Room & Dormitory • Waidhan, Singrauli</div>
+    <div style="font-size:12px" class="muted">Built for GitHub Pages • Static, fast, and mobile‑friendly</div>
+  </footer>
+
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

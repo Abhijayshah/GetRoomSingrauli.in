@@ -6,6 +6,7 @@
   --surface-weak:#f1f5f9;
   --pill-bg: rgba(255,255,255,0.8);
   --border: rgba(148,163,184,.25);
+  --poster-max-width: 320px;
 }
 html[data-theme="dark"]{
   --text:#e5e7eb; --muted:#9aa4b2; --brand:#22d3ee; --accent:#38bdf8; --ok:#22c55e; --warn:#f59e0b; --ring:#94a3b8;
@@ -65,7 +66,7 @@ html,body{margin:0;padding:0;background:var(--bg-gradient);color:var(--text);fon
 .center{text-align:center}
 .media{width:100%;height:auto;border-radius:8px}
 .media-lg{max-width:400px;border-radius:12px}
-.poster{width:100%;max-width:250px;height:auto;border-radius:12px}
+.poster{width:100%;max-width:min(100%, var(--poster-max-width, 320px));height:auto;border-radius:12px;object-fit:contain}
 .media-wrap{text-align:center;margin:15px 0}
 .media-wrap-sm{text-align:center;margin:10px 0}
 .clickable{cursor:pointer}

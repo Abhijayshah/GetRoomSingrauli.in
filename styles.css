@@ -25,10 +25,10 @@ html,body{margin:0;padding:0;background:var(--bg-gradient);color:var(--text);fon
 .logo{width:44px;height:44px;border-radius:12px;background:radial-gradient(120% 120% at 30% 20%, var(--accent), #1e293b 55%, #0b1220);box-shadow:0 0 0 3px rgba(56,189,248,.35), 0 8px 30px rgba(56,189,248,.25)}
 .title{font-weight:800;letter-spacing:.2px}
 .pill{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border:1px solid var(--border);border-radius:999px;background:var(--pill-bg);backdrop-filter:blur(6px)}
-.btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 18px;border-radius:12px;border:1px solid rgba(148,163,184,.35);background:linear-gradient(180deg,#0f172a, #0b1323);box-shadow:inset 0 0 0 1px rgba(148,163,184,.15);transition:all 0.2s ease}
+.btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 18px;border-radius:12px;border:1px solid rgba(148,163,184,.35);background:linear-gradient(180deg,#0f172a, #0b1323);box-shadow:inset 0 0 0 1px rgba(148,163,184,.15);transition:all 0.2s ease;color:#e5e7eb}
 .btn:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(56,189,248,.25)}
-.btn.primary{background:linear-gradient(180deg, #0891b2, #0284c7);border-color:transparent}
-.btn.whatsapp{background:linear-gradient(180deg,#16a34a,#15803d)}
+.btn.primary{background:linear-gradient(180deg, #0891b2, #0284c7);border-color:transparent;color:#ffffff}
+.btn.whatsapp{background:linear-gradient(180deg,#16a34a,#15803d);color:#ffffff}
 .grid{display:grid;gap:18px}
 .hero{padding:32px 0 20px}
 .hero h1{font-size:clamp(28px,4.2vw,50px);line-height:1.08;margin:14px 0 6px}

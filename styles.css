@@ -70,3 +70,7 @@ html,body{margin:0;padding:0;background:var(--bg-gradient);color:var(--text);fon
 .media-wrap{text-align:center;margin:15px 0}
 .media-wrap-sm{text-align:center;margin:10px 0}
 .clickable{cursor:pointer}
+.form{display:grid;gap:10px}
+.form label{display:flex;flex-direction:column;gap:6px;font-weight:600}
+.form input,.form textarea{padding:10px;border:1px solid var(--border);border-radius:12px;background:var(--surface);color:inherit;font:inherit}
+.form textarea{min-height:100px;resize:vertical}

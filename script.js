@@ -44,3 +44,31 @@
     });
   }
 })();
+
+// Async contact support form submission via Formspree
+(function(){
+  var form = document.getElementById('supportForm');
+  var statusEl = document.getElementById('formStatus');
+  if(!form) return;
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    if(statusEl){ statusEl.textContent = 'Sending…'; }
+    var data = new FormData(form);
+    fetch(form.action, {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    }).then(function(res){
+      if(res.ok){
+        if(statusEl){ statusEl.textContent = 'Thanks! We will contact you shortly.'; }
+        form.reset();
+      } else {
+        return res.json().then(function(){
+          if(statusEl){ statusEl.textContent = 'Something went wrong. Please try again or call us.'; }
+        });
+      }
+    }).catch(function(){
+      if(statusEl){ statusEl.textContent = 'Network error. Please try again later.'; }
+    });
+  });
+})();

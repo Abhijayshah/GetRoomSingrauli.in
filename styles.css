@@ -74,3 +74,32 @@ html,body{margin:0;padding:0;background:var(--bg-gradient);color:var(--text);fon
 .form label{display:flex;flex-direction:column;gap:6px;font-weight:600}
 .form input,.form textarea{padding:10px;border:1px solid var(--border);border-radius:12px;background:var(--surface);color:inherit;font:inherit}
 .form textarea{min-height:100px;resize:vertical}
+
+/* === Merged styles from index2.html (scoped) === */
+/* Poster Top Dashboard removed */
+
+/* Instagram section */
+.instagram-section{ max-width:1000px; margin:24px auto 20px; padding:16px; background:#f9fafb; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.06) }
+.instagram-header{ text-align:center; margin-bottom:10px; color:#374151 }
+.instagram-card{ display:flex; align-items:center; justify-content:space-between; gap:12px; padding:14px 16px; background:#fff; border:1px solid #e5e7eb; border-radius:10px }
+.insta-handle{ font-weight:600; color:#1f2937 }
+.btn-instagram{ padding:10px 14px; border-radius:8px; background:linear-gradient(135deg, #f58529, #dd2a7b, #8134af, #515bd4); color:#fff; text-decoration:none; transition:transform .15s ease, box-shadow .15s ease }
+.btn-instagram:hover{ transform:translateY(-2px); box-shadow:0 8px 16px rgba(221,42,123,0.35) }
+@media (max-width:600px){ .instagram-card{ flex-direction:column; align-items:flex-start } }
+
+/* Contact phone block */
+.contact-section{ background:#fff; padding:20px; border-radius:15px; margin:18px 0; box-shadow:0 10px 30px rgba(0,0,0,0.08) }
+.contact-item{ display:flex; align-items:center; justify-content:space-between; padding:12px; background:#f8f9fa; border-radius:10px; border-left:4px solid #667eea; margin-bottom:12px }
+.contact-number{ font-weight:700; color:#1e3c72; font-size:1.05em }
+.contact-actions{ display:flex; gap:10px; flex-wrap:wrap }
+.btn-whatsapp{ background:linear-gradient(135deg, #25D366 0%, #128C7E 100%); color:#fff }
+.btn-call{ background:linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color:#fff }
+@media (max-width:768px){ .contact-item{ flex-direction:column; align-items:flex-start; gap:10px } }
+
+/* Restaurant comparison removed */
+@media (max-width:768px){
+  .bar-item{ flex-direction:column; align-items:flex-start }
+  .restaurant-name{ min-width:auto }
+  .restaurant-table{ font-size:.95em }
+  .restaurant-table th,.restaurant-table td{ padding:10px }
+}

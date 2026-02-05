@@ -72,7 +72,7 @@ Built with a focus on **ROI (Return on Investment)** and **Maintenance Efficienc
 - **Design**: Mobile-First Responsive Architecture (Captures 80% of traffic from mobile users)
 
 ---
-
+<!-- 
 ## 💼 Career Opportunities
 
 **Join Our Growth Story**
@@ -126,7 +126,7 @@ Interested in partnering or investing?
 
 - **Direct Line**: +91 97702 36735
 - **WhatsApp Business**: [Chat with us](https://wa.me/919770236735)
-- **Location HQ**: Behind Ram Leela Maidan, Baliyari Road, Waidhan, Singrauli (M.P.) - 486886
+- **Location HQ**: Behind Ram Leela Maidan, Baliyari Road, Waidhan, Singrauli (M.P.) - 486886 -->
 
 ---
 

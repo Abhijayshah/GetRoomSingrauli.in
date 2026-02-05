@@ -1,6 +1,11 @@
 # Cheapest Waiting Room & Dormitory - Waidhan, Singrauli
 
 A modern, responsive website for budget-friendly accommodation services in Waidhan, Singrauli (M.P.). This website showcases dormitory, waiting room, and rental room services with 24/7 availability.
+Singrauli
+Hotels In Singrauli
+Hotels in Waidhan
+Hotel Baba 
+https://www.justdial.com/Singrauli/search?q=&stype=company_list 
 
 ## 🏨 About
 

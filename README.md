@@ -13,6 +13,8 @@
 
 In a market dominated by high-end hotel aggregators, this platform targets the **underserved segment** of daily wage earners, students, hospital attendants, and budget travelers who struggle to find low-cost stays (starting ₹100/day). 
 
+
+
 **Key Business Highlights:**
 - **Live & Operational**: Successfully deployed and serving real user queries.
 - **Revenue Potential**: Projected **₹1 Lakh/month** via commission models, premium listings, and local partnerships.
@@ -72,6 +74,16 @@ Built with a focus on **ROI (Return on Investment)** and **Maintenance Efficienc
 - **Design**: Mobile-First Responsive Architecture (Captures 80% of traffic from mobile users)
 
 ---
+**Join Our Growth Story**
+Professional Summary Aspiring Solutions Consultant with a strong foundation in Computer Science and Entrepreneurship. Skilled in bridging the gap between technical complexity and business value. Proven ability to identify market gaps, design user-centric solutions, and communicate technical concepts to non-technical stakeholders. Eager to apply SaaS understanding and problem-solving skills to the Presales team.
+
+Market & Revenue Strategy: Identified a ₹12 Lakh/year revenue gap in the local hospitality market and launched 'GetRoomSingrauli.in', a hyper-local marketplace connecting vendors with travelers. LIVE 🌐:  https://abhijayshah.github.io/GetRoomSingrauli.in/ 
+
+Sales Funnel Optimization: Engineered a "Click-to-Call" sales workflow that reduced lead response time by 90% for non-tech-savvy users, directly addressing customer friction.
+
+Presales & Solutioning: Designed 'Rately', a B2B SaaS platform with Role-Based Access Control (RBAC), successfully mapping distinct business requirements (Admin vs. User) to specific product features.
+
+Technical Communication: Produced 100+ technical solution videos for 'CatCatchCode', simplifying complex concepts for a non-expert audience—demonstrating the core presentation skills required for a Solutions Consultant.
 <!-- 
 ## 💼 Career Opportunities
 

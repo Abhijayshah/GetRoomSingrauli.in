@@ -6,9 +6,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-Project-details.md
-proompt.md
-currentRealTimeLatestStatus.md
 
 # Editor Directories
 .vscode/
@@ -26,7 +23,6 @@ videos/
 *.avi
 *.mkv
 
-# Markdown Files (Ignore all except specific documentation)
+# Markdown Files (Ignore all except README)
 *.md
 !README.md
-!Project-details.md
